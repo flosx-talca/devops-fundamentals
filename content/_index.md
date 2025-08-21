@@ -9,7 +9,7 @@ url = "/docs"
 url_button = "Get started"
 repo_version = "GitHub v0.1.0"             
 repo_license = "Open-source MIT License."
-repo_url = "https://github.com/sbstn-jmnz/devops-fundamentals"
+repo_url = "https://github.com/flosx-talca/devops-fundamentals"
 
 # Menu items
 [[extra.list]]
