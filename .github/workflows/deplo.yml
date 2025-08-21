@@ -5,7 +5,7 @@ on:
     branches:
       - main
 
-# 👇 Esto da permisos de escritura sobre el repo actual
+# 👇 Esto da permisos de escritura sobre el repo actualq
 permissions:
   contents: write
 
