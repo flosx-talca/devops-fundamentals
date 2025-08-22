@@ -1,1 +1,7 @@
 public
+node_modules
+.DS_Store
+.env
+npm-debug.log
+yarn-debug.log
+yarn-error.log
