@@ -1,51 +1,50 @@
 +++
-title = "Modern Documentation Theme"
+title = "Fundamentos DevOps Adalid"
 
 
 # The homepage contents
 [extra]
-lead = '<b>AdiDoks</b> is a modern documentation theme, which is a port of the Hugo theme <a href="https://github.com/h-enk/">Doks</a> for Zola.'
-url = "/docs/getting-started/introduction/"
+lead = "Aprende a integrar desarrollo, operaciones y calidad en un solo flujo de trabajo. Domina las prácticas DevOps más demandadas por la industria."
+url = "/docs"
 url_button = "Get started"
-repo_version = "GitHub v0.1.0"
+repo_version = "GitHub v0.1.0"             
 repo_license = "Open-source MIT License."
-repo_url = "https://github.com/aaranxu/adidoks"
+repo_url = "https://github.com/sbstn-jmnz/devops-fundamentals"
 
 # Menu items
-[[extra.menu.main]]
-name = "Docs"
-section = "docs"
-url = "/docs/getting-started/introduction/"
-weight = 10
-
-[[extra.menu.main]]
-name = "Blog"
-section = "blog"
-url = "/blog/"
-weight = 20
+[[extra.list]]
+title = "Orientación al Perfil y Metodología del Curso"
+content = '<a href="./docs/01-orientacion-perfil-y-metodologia">Conoce el perfil laboral</a>, el enfoque bootcamp del curso y el impacto de la sobriedad digital en la industria TI.'
 
 [[extra.list]]
-title = "Security aware"
-content = 'Get A+ scores on <a href="https://observatory.mozilla.org/analyze/adidoks.org">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.'
+title = "Fundamentos y Adopción DevOps ⚡️"
+content = "Explora los principios, cultura, ciclo de vida y estrategias de adopción DevOps en organizaciones tecnológicas modernas."
 
 [[extra.list]]
-title = "Fast by default ⚡️"
-content = 'Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=7731347bb8ce999eff7428a8e763b637">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.'
+title = "Integración Continua"
+content = "Implementa procesos de construcción automática de software con Git, Maven, Jenkins, SonarQube y herramientas DevSecOps."
 
 [[extra.list]]
-title = "SEO-ready"
-content = "Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking."
+title = 'Automatización de Pruebas'
+content = '<a href="./docs/04-automatizacion-de-pruebas">Aplica pruebas automatizadas</a> con JUnit, SOAPUI, JMeter y Selenium para asegurar calidad en integración continua.'
 
 [[extra.list]]
-title = "Full text search"
-content = "Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking."
+title = "Arquitectura y Escalabilidad"
+content = '<a href="./docs/05-arquitectura-y-escalabilidad">Analiza principios arquitectónicos modernos</a>, microservicios y escalabilidad de soluciones digitales con enfoque DevOps.'
 
 [[extra.list]]
-title = "Page layouts"
-content = "Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs."
+title = "Tecnología Cloud y DevOps"
+content = "Integra servicios en la nube, contenedores y automatización de infraestructura como código para entornos DevOps."
 
 [[extra.list]]
-title = "Dark mode"
-content = "Switch to a low-light UI with the click of a button. Change colors with variables to match your branding."
+title = "Despliegue y Monitoreo Continuo"
+content = "Configura procesos automatizados de entrega y monitoreo de software para una operación confiable y ágil."
 
+[[extra.list]]
+title = "Desarrollo de Portafolio Profesional"
+content = "Compila productos desarrollados durante el curso en un portafolio que refleje tus competencias DevOps."
+
+[[extra.list]]
+title = "Empleabilidad en la Industria Digital"
+content = "Prepara tu perfil profesional, mejora tu presentación laboral y comprende el entorno de empleabilidad en TI."
 +++
